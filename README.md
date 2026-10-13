@@ -1,5 +1,5 @@
 # LangGraph Multi-Agent Demo
-基于LangGraph StateGraph实现的四层主从多Agent智能客服系统，覆盖电商导购、订单查询、合规校验全场景，配套工具调用、限流熔断与三级容错机制。
+基于LangGraph StateGraph实现的四层主从多Agent智能客服系统，覆盖电商导购、订单查询、合规校验全场景，配套工具调用、限流熔断与三级容错机制。 
 
 ## ✨ 核心特性
 - **四层主从架构**：Orchestrator调度Agent + 业务执行Agent + 工具执行层 + 合规校验层，模块解耦可复用
